@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Profile image](https://nikolasoft.com/img/portfolio/thumbnails/4.jpg)
